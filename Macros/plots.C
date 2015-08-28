@@ -11,6 +11,7 @@
 #include "TLegend.h"
 #include "TPaveText.h"
 
+// Test comment
 
 TFile *fp[10];
 TTree *events[10];
@@ -220,3 +221,7 @@ void LEPETA_ee()
 
 
 }
+<<<<<<< HEAD
+
+=======
+>>>>>>> cf8ed2d477b5e798e18161770b422301176732f4
