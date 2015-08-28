@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+;; This buffer is for notes you don't want to save, and for Lisp evaluation.
+;; If you want to create a file, visit that file with C-x C-f,
+;; then enter the text in that file's own buffer.
+
+>>>>>>> cf8ed2d477b5e798e18161770b422301176732f4
 #include "TFile.h"
 #include "TTree.h"
 #include "TH1F.h"
@@ -220,4 +227,7 @@ void LEPETA_ee()
 
 
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> cf8ed2d477b5e798e18161770b422301176732f4
